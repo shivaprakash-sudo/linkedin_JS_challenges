@@ -1,0 +1,12 @@
+{
+  "name": "linkedin_js_challenges",
+  "version": "1.0.0",
+  "description": "Code Challenges from LinkedIn course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shiva Prakash Pendem",
+  "license": "ISC"
+}
