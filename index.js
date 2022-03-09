@@ -1,5 +1,6 @@
 import Book from './available_books/Book.js';
 import MovieObject from './movie_object/MovieObject.js';
+import TechnicalBook from './technical_books/TechnicalBook.js';
 
 // Book example
 
@@ -47,3 +48,15 @@ import MovieObject from './movie_object/MovieObject.js';
 // console.log(Avengers.getOverview());
 // console.log(ManOfSteel.getOverview());
 // console.log(Parasite.getOverview());
+
+// TechnicalBook examples
+
+// const Java = new TechnicalBook(
+//     "Java",
+//     "Einstein",
+//     123435,
+//     15,
+//     5
+// );
+
+// console.log(Java.getEdition());
