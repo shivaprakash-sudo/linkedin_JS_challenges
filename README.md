@@ -13,7 +13,7 @@ These are JavaScript Code Challenges from one of the LinkedIn courses called [Ja
 4. Technical books
    - Deals with class inheritance.
 5. Private object
-   - Deals with the Symbols data type.
+   - Deals with the Symbol data type and creating unique keys.
 6. Ticking time
 7. Classroom attendance
 8. Dynamic colors
