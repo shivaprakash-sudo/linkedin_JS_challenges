@@ -4,18 +4,20 @@ These are JavaScript Code Challenges from one of the LinkedIn courses called [Ja
 
 #### Challenges
 
-1. Available books
+1. Available books (⭐)
    - Deals with the class construction and getting and setting values.
-2. Movie objects
+2. Movie objects (⭐)
    - Deals with class construnction too.
-3. Vegetarian dinner
+3. Vegetarian dinner (⭐)
    - Deals with arrays and the filter method.
-4. Technical books
+4. Technical books (⭐)
    - Deals with class inheritance.
-5. Private object
+5. Private object (⭐)
    - Deals with the Symbol data type and creating unique keys.
-6. Ticking time
-7. Classroom attendance
+6. Ticking time (⭐⭐)
+   - Deals with Date object and how to display local time in the webpage
+7. Classroom attendance (⭐⭐)
+   - Deals with arrays and object destructuring.
 8. Dynamic colors
 9. Coffee calculations
 10. Food truck
