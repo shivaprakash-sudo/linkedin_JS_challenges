@@ -2,6 +2,8 @@
 
 These are JavaScript Code Challenges from one of the LinkedIn courses called [JavaScript Code Challenges](https://www.linkedin.com/learning/javascript-code-challenges/movie-object?autoplay=true) by [Emma Bostian](https://www.linkedin.com/learning/instructors/emma-bostian).
 
+<em><strong>Note:</strong></em> Difficulty rating is given by number of ⭐ symbols.
+
 #### Challenges
 
 1. Available books (⭐)
@@ -18,7 +20,8 @@ These are JavaScript Code Challenges from one of the LinkedIn courses called [Ja
    - Deals with Date object and how to display local time in the webpage
 7. Classroom attendance (⭐⭐)
    - Deals with arrays and object destructuring.
-8. Dynamic colors
+8. Dynamic colors (⭐⭐)
+   - Deals with DOM manipulation and closures.
 9. Coffee calculations
 10. Food truck
 11. Train generator
