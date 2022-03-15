@@ -24,7 +24,10 @@ These are JavaScript Code Challenges from one of the LinkedIn courses called [Ja
    - Deals with DOM manipulation and closures.
 9. Coffee calculations
    - Deals with array reduce method.
-10. Food truck
+10. Food truck (⭐⭐⭐)
+
+- Deals with Sets.
+
 11. Train generator
 12. String permutation
 13. Five friends
