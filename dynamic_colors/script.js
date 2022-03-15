@@ -15,14 +15,18 @@ function initializeButtons() {
     body.append(blueBtn, pinkBtn, greenBtn);
 
     function changeBodyColor(color) {
-        body.style.background = color;
+        return () => body.style.background = color;
     }
 
-    blueBtn.addEventListener("click", (e) => changeBodyColor("#00f"));
+    const bgColorBlue = changeBodyColor("#00f");
+    const bgColorPink = changeBodyColor("pink");
+    const bgColorGreen = changeBodyColor("#0f0");
 
-    pinkBtn.addEventListener("click", (e) => changeBodyColor("pink"));
+    blueBtn.addEventListener("click", bgColorBlue);
 
-    greenBtn.addEventListener("click", (e) => changeBodyColor("#0f0"));
+    pinkBtn.addEventListener("click", bgColorPink);
+
+    greenBtn.addEventListener("click", bgColorGreen);
 }
 
 initializeButtons();
