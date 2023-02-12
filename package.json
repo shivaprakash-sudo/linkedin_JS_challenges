@@ -11,6 +11,6 @@
   "author": "Shiva Prakash Pendem",
   "license": "GNU General Public License v3.0",
   "devDependencies": {
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.20"
   }
 }
